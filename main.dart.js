@@ -35180,7 +35180,7 @@ return A.P(null,r)}})
 return A.Q($async$oc,r)},
 aI(){this.oc()
 this.b9()},
-J(a,b){return new A.uW(new A.uf(null),"Explore",$.ajU(),$.ajS(),b.M(t.OE).f.d,!1,null)}}
+J(a,b){return new A.uW(new A.uf(null),"\u05d4\u05de\u05d8\u05d1\u05d7 \u05e9\u05dc \u05e1\u05e4\u05d9\u05e8",$.ajU(),$.ajS(),b.M(t.OE).f.d,!1,null)}}
 A.a57.prototype={
 $0(){},
 $S:0}
