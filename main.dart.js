@@ -97646,7 +97646,7 @@ A.acF.prototype={}
 A.aaQ.prototype={
 a7g(){var s=null,r=A.oe(new A.aaR(),"/login"),q=A.oe(new A.aaS(),"/notActive"),p=A.oe(new A.aaT(),"/measurement"),o=A.oe(new A.aaU(),"/eventScreen"),n=A.oe(new A.aaV(),"/trainingPlan"),m=t.yo,l=A.a([A.aK7(A.a([A.oe(new A.aaW(),"/home")],m)),A.aK7(A.a([A.oe(new A.aaX(),"/nutrition")],m)),A.aK7(A.a([A.oe(new A.aaY(),"/profile")],m))],t.uP)
 m=A.a([r,q,p,o,n,new A.hT(s,new A.aaZ(),s,A.baH(),l,new A.be(s,t.al),A.b3I(l),s)],m)
-this.a=A.b0u(!1,s,s,s,s,"/home",s,s,s,!1,s,!0,s,!1,new A.a0E(new A.aqh(m,new A.ab_(),5)))}}
+this.a=A.b0u(!1,s,s,s,s,"/login",s,s,s,!1,s,!0,s,!1,new A.a0E(new A.aqh(m,new A.ab_(),5)))}}
 A.ab_.prototype={
 $2(a,b){var s=t.tj,r=A.aNt(a,s),q=r.kP$
 if((q==null?A.dl.prototype.gbP.call(r,r):q).b===B.er)return"/notActive"
