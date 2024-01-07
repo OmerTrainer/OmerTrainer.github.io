@@ -1,11 +1,11 @@
 {
-    "name": "rep_step_mobile",
-    "short_name": "rep_step_mobile",
-    "start_url": ".",
+    "name": "RepStep",
+    "short_name": "RepStep",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#hexcode",
     "theme_color": "#hexcode",
-    "description": "A new Flutter project.",
+    "description": "Fitness Dashboard.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
