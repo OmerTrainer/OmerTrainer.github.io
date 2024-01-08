@@ -89693,7 +89693,7 @@ L(a){var s=null
 return A.aER(s,A.aBE(s,new A.cJ(B.o5,A.n_(A.a([A.aII(this.d,B.Lr,B.a2o),B.lT,A.aII(this.e,B.Lq,B.a2p),B.a1k,new A.Mb(new A.atg(this,a),s,s,s,s,B.E,s,!1,s,!0,B.a5U,s)],t.p),B.jX,B.i7,B.bx),s)),s,new A.ath(),t.tj,t.FB)}}
 A.ath.prototype={
 $2(a,b){var s=b.c
-if(s===B.cP)A.zr(a).oR(0,"/",null)
+if(s===B.cP)A.zr(a).oR(0,"/home",null)
 if(s===B.mO)A.zr(a).oR(0,"/notActive",null)},
 $S:568}
 A.atg.prototype={
@@ -89737,9 +89737,9 @@ s.d.na(0,s.Na(a))}else s.d.na(0,s.Na(a))
 return null},
 $S:54}
 A.aoM.prototype={
-a2U(){var s=null,r=A.abG(new A.aoN(),"/login"),q=t.yo,p=A.a([A.aIv(A.a([A.abG(new A.aoO(),"/")],q)),A.aIv(A.a([A.abG(new A.aoP(),"/training")],q))],t.uP)
+a2U(){var s=null,r=A.abG(new A.aoN(),"/login"),q=t.yo,p=A.a([A.aIv(A.a([A.abG(new A.aoO(),"/home")],q)),A.aIv(A.a([A.abG(new A.aoP(),"/training")],q))],t.uP)
 q=A.a([r,new A.h9(s,new A.aoQ(),s,A.b16(),p,new A.bo(s,t.al),A.aVq(p),s)],q)
-this.a=A.aSj(!1,s,s,s,s,"/",s,s,s,!1,s,!0,s,!1,new A.WE(new A.ajC(q,new A.aoR(),5)))}}
+this.a=A.aSj(!1,s,s,s,s,"/home",s,s,s,!1,s,!0,s,!1,new A.WE(new A.ajC(q,new A.aoR(),5)))}}
 A.aoR.prototype={
 $2(a,b){var s=t.tj,r=A.aES(a,s),q=r.kj$
 if((q==null?A.d3.prototype.gbA.call(r,r):q).c===B.mO)return"/notActive"
